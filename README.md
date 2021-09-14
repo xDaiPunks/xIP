@@ -4,7 +4,7 @@
 
 xDaiPunk Improvement Proposals (xIPs) describe standards for the xDaiPunk platform.
 
-**Before you initiate a pull request**, please read the xIP-000001 process document. Ideas should be thoroughly discussed prior to opening a pull request.
+**Before you initiate a pull request**, please read the [xIP-000001](https://github.com/xDaiPunks/xIP/blob/main/xIPs/xIP-000001.md) process document. Ideas should be thoroughly discussed prior to opening a pull request.
 
 This repository tracks the ongoing status of xIPs. It contains:
 
