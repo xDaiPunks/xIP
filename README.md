@@ -1,4 +1,4 @@
-# xDaiPunk Inprovement Proposal (xIP)
+# xDaiPunk Inprovement Proposals (xIP)
 
 
 
